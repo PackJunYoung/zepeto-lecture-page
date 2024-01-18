@@ -1,1 +1,1 @@
-{"entities":{"pages":{"main":{"id":"main","title":"About main","url":"main.html","level":0,"tabIndex":0}}},"topLevelIds":["main"]}
+{"entities":{"pages":{"log-output":{"id":"log-output","title":"기본 로그 출력","url":"log-output.html","level":0,"tabIndex":0},"variables":{"id":"variables","title":"변수와 타입","url":"variables.html","level":0,"tabIndex":1}}},"topLevelIds":["log-output","variables"]}
